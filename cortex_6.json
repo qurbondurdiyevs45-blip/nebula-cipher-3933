@@ -1,0 +1,15 @@
+{
+  "name": "nebula-cipher-3933",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 6974,
+    "createdAt": "2026-09-12T13:10:24.145Z"
+  }
+}
